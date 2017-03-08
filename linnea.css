@@ -1,0 +1,170 @@
+body {
+  padding-top: 70px;
+}
+
+
+.navbar-default {
+  background-color: #8FBC8F;
+  border-color: #c0392b;
+}
+
+.linneabergmann{
+  margin-left: 980px;
+}
+
+.container-fluid_paradise{
+  background-image: url("images/paradise.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron{
+  margin-top: 20px;
+  height: 70px;
+  background-color: #ADD8E6;
+}
+
+.content_jumbotron{
+  margin-top: -35px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.content_jumbotron p{
+  line-height: 3px;
+}
+
+.container-fluid_personal{
+  background-color: #87CEFA;
+  height: 500px;
+}
+
+.profile{
+  width: 400px;
+  margin-top: 35px;
+}
+
+.profile2{
+  width: 420px;
+  margin-top: 35px;
+}
+
+.text{
+  color: white;
+  font-size: 17px;
+}
+
+.text2{
+  color: black;
+  font-size: 17px;
+}
+
+.container-fluid_education{
+  height: 500px;
+  background-color: #E0FFFF;
+}
+
+.content_personal{
+  margin-top: 30px;
+}
+
+.personal_p{
+  text-align: right;
+  margin-right: 50px;
+}
+
+.education{
+  width: 100%;
+  margin-top: 100px;
+  margin-left: 7px;
+}
+
+.content_education{
+  margin-top: 50px;
+}
+
+.container-fluid_work{
+  height: 500px;
+  background-color: #4169E1;
+}
+
+.container-fluid_work h1{
+  margin-left: 7px;
+}
+
+.content_work1{
+  margin-left: 7px;
+}
+
+.content_work2{
+  margin-top: 84px;
+}
+
+.content_work3{
+  margin-top: 84px;
+}
+
+.content_work4{
+  margin-top: 84px;
+}
+
+.work2{
+  width: 120px;
+}
+
+.work3{
+  width: 180px;
+}
+
+.work4{
+  width: 180px;
+}
+
+.container-fluid_skills{
+  height: 500px;
+  background-color: 	#87CEEB;
+}
+
+ul{
+  list-style: none;
+}
+
+.content_skills1{
+  margin-top: 50px;
+  color: gray;
+  font-size: 20px;
+}
+
+.content_skills2{
+  margin-top: 50px;
+  color: gray;
+  font-size: 20px;
+}
+
+.container-fluid_projects{
+  height: 500px;
+  background-color: #4682B4;
+}
+
+.content_projects1, .content_projects2{
+  margin-top: 50px;
+}
+
+.projects{
+  width: 220px;
+}
+
+.container-fluid_contact{
+  height: 80px;
+  background-color: #B0E0E6;
+}
+
+.gmail, .facebook, .instagram, .linkedin{
+  width: 30px;
+  margin-top: 27px;
+}
+
+.contacttitle{
+  margin-left: 7px;
+}
